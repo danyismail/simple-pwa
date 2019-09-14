@@ -1,0 +1,16 @@
+{
+    "name": "Simple PWA",
+    "short_name": "Ninja PWA",
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "#ee6e73",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/img/ninja-icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+ }
