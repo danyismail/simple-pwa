@@ -1,0 +1,92 @@
+body{
+    padding: 10px;
+    background-color: rgb(11, 165, 152);
+    color: white
+}
+
+ul a{
+    
+    animation-duration: 12s;
+    color: rgb(217, 230, 36);
+    opacity: 0.9;
+}
+
+li {
+    display: inline;
+    padding: 2px;
+    margin-left: 15px;
+    font-size: 17px;
+    text-decoration: none;
+    
+}
+
+img{
+    margin-right: 10px;
+    padding: 0px;
+}
+
+li a:hover{
+    font-size: 20px;
+    opacity: 1.6;
+}
+
+.container{
+    padding-top: 3rem;
+    width: 100%;
+}
+
+.kiri{
+    float: left;
+}
+
+.kanan{
+    float: right;
+    margin-right:3px;
+}
+
+.artikel{
+    width:70%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.foto{
+    width: 20%;
+    margin-top: 0.7rem;
+    margin-bottom: 0.3rem;
+    
+}
+
+.batas{
+    clear: both;
+}
+
+footer{
+    
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 20px;
+    text-align: center
+}
+
+.form{
+    float: left;
+    margin-right: 20px;
+}
+
+.kontak{
+    
+    padding: 30px;
+    margin-left: 20px;
+}
+
+.bijak{
+    quotes: '\00AB' '\00BB' '\201E' '\201C';
+}
+
+
+
+
+
+
+
